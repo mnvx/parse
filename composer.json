@@ -22,7 +22,7 @@
         "phpunit/phpunit": "^4.2",
         "codeclimate/php-test-reporter": "dev-master",
         "mockery/mockery": "^0.9",
-        "akamon/mockery-callable-mock": "^1.0"
+        "tmarsteel/mockery-callable-mock": "^1.0"
     },
     "autoload": {
         "psr-4": {
